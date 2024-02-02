@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+My name is Rohan ,I have been enjoying web devlopment since i built my first react app. I have worked on MERN stack projects but I like working on frontend more so , react and its frameworks like next js are what I am currently writing code in. If you are hiring , let's chat!   
+
 
 <!--
 **Rohan-684/Rohan-684** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

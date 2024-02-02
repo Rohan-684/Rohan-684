@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Rohan ,I have been enjoying web devlopment since i built my first react app. I have worked on MERN stack projects but I like working on frontend more so , react and its frameworks like next js are what I am currently writing code in. If you are hiring , let's chat!   
+My name is Rohan ,I have been enjoying web development since i built my first react app. I have worked on MERN stack projects but I like working on frontend more so , react and its frameworks like next js are what I am currently writing code in. If you are hiring , let's chat!   
 
 
 <!--
